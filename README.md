@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Go IT, HTML, homework1
+# wayup-markup-hw-01
+Wayup, HTML, homework1
